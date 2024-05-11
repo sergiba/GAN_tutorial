@@ -1,2 +1,2 @@
 # GAN_tutorial
-GAN tutorial applied to MNIST dataset
+GAN tutorial applied to MNIST dataset - testing push.
